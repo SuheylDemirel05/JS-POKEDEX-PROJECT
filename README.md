@@ -1,18 +1,31 @@
-# 📱 Responsive Pokedex Uygulaması
+# 📱 Responsive Pokedex Website
 
-Merhaba! Bu projede HTML, CSS ve JavaScript kullanarak sade, şık ve **responsive** (mobil uyumlu) bir **Pokedex uygulaması** geliştirdim.
+Welcome! This is a simple, clean, and **responsive** Pokedex web app built with **HTML**, **CSS**, and **JavaScript**.
 
-## 🚀 Özellikler
+## 🚀 Features
 
-- ✅ Temiz ve sade tasarım
-- 📱 Mobil, tablet ve masaüstü uyumlu responsive yapı
-- ⚡ Gerçek verilerle çalışan dinamik yapı (JavaScript ile)
-- 🧼 Temiz, anlaşılır ve modern kodlama yapısı
-- 🧩 HTML5, CSS3 ve modern JavaScript standartları kullanılmıştır
+- ✅ Clean and modern design  
+- 📱 Fully responsive for mobile, tablet, and desktop  
+- ⚡ Dynamic content powered by JavaScript  
+- 🧼 Well-structured and readable codebase  
+- 🧩 Built using up-to-date HTML5, CSS3, and modern JavaScript (ES6+)
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3 (Flexbox + Media Queries)
-- JavaScript 
+- HTML5  
+- CSS3 (Flexbox + Media Queries)  
+- JavaScript (Vanilla ES6+)
 
+# 🧑‍💻 Developer
+
+Süheyl Demirel
+
+📫 shyl.dmrl21@gmail.com
+
+🐙 [GitHub Profile](https://github.com/SuheylDemirel05)
+
+🔗 X [(Twitter)](https://x.com/suheyl144)
+
+# Preview
+
+![ezgif-7a772c865dd227-ezgif com-optimize](https://github.com/user-attachments/assets/67bcbf99-a442-46e7-8e3d-d49883277a82)
