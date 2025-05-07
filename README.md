@@ -16,6 +16,11 @@ Welcome! This is a simple, clean, and **responsive** Pokedex web app built with 
 - CSS3 (Flexbox + Media Queries)  
 - JavaScript (Vanilla ES6+)
 
+
+# Preview
+
+![ezgif-7a772c865dd227-ezgif com-optimize](https://github.com/user-attachments/assets/67bcbf99-a442-46e7-8e3d-d49883277a82)
+
 # 🧑‍💻 Developer
 
 Süheyl Demirel
@@ -26,6 +31,6 @@ Süheyl Demirel
 
 🔗 X [(Twitter)](https://x.com/suheyl144)
 
-# Preview
+---
 
-![ezgif-7a772c865dd227-ezgif com-optimize](https://github.com/user-attachments/assets/67bcbf99-a442-46e7-8e3d-d49883277a82)
+> 📘 **This project is for educational purposes only.**
