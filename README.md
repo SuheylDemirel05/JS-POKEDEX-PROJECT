@@ -33,4 +33,3 @@ Süheyl Demirel
 
 ---
 
-> 📘 **This project is for educational purposes only.**
